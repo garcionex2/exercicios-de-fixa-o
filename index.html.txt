@@ -6,5 +6,7 @@
 </head>
 <body>
 <h1> Treinando os comandos do GIT/GitHUB<\h1>
+<h2>Inserindo Imagens<\h2>
+<img src="images/http://s2.glbimg.com/E5oewmPWuzlx_kVsvMkZSqmOI1w=/290x217/s.glbimg.com/jo/g1/f/original/2010/10/07/charlie.jpg"/>
 </body
 </html>
